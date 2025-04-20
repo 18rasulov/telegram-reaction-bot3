@@ -9,7 +9,8 @@ bots = [
     {"name": "bot1", "7327051070:AAGxDXW1ozkgIp__ha6sm9ZMzHn-3QS_Jno": os.getenv("BOT_TOKEN_1"), "emoji": "❤️"},
     {"name": "bot2", "7753185283:AAFbgzOUwYRvaRHQPMX-auvPrMoeQlxQuF4": os.getenv("BOT_TOKEN_2"), "emoji": "💔"},
     {"name": "bot3", "7504024097:AAGItfdmjblZgTeAzHBg6j5G-M63o0i5F4s": os.getenv("BOT_TOKEN_3"), "emoji": "💯"},
-    {"name": "bot4", "7717874523:AAGa_ZXd2jawu8WbQWjSPwhmsl6Hly7h25Y": os.getenv("BOT_TOKEN_3"), "emoji": "💔"},
+    {"name": "bot4", "7717874523:AAGa_ZXd2jawu8WbQWjSPwhmsl6Hly7h25Y": os.getenv("BOT_TOKEN_4"), "emoji": "💋"},
+    {"name": "bot5", "7724748741:AAG7ic1bmj6AGDznL2KflL9r2MB9eerUMJE": os.getenv("BOT_TOKEN_5"), "emoji": "❤‍🔥"},
     # Qo‘shimcha botlar kerak bo‘lsa shu yerga qo‘sh
 ]
 
